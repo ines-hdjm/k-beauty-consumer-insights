@@ -176,7 +176,9 @@ The screenshot captures selected filter states; interact with the dashboard to e
 - **Tableau Public:** Interactive visualization and presentation.
 - **GitHub:** Project organization, documentation, and version control.
 
-## Repository structure
+## Project structure
+
+The layout below describes the complete local project package. This GitHub repository currently publishes the README, dashboard image, and setup files. Notebooks and data have not been uploaded.
 
 ```text
 .
@@ -199,7 +201,7 @@ The screenshot captures selected filter states; interact with the dashboard to e
 
 ## Explore and reproduce
 
-The supplied notebooks retain their original code and saved outputs. To inspect the work, open them in order from `01` through `05`; use the included CSV exports to examine the saved analytical snapshot without collecting again.
+The notebooks in the local project package retain their original code and saved outputs. To inspect the work, open them in order from `01` through `05`; use the local CSV exports to examine the saved analytical snapshot without collecting again.
 
 To run locally:
 
@@ -229,3 +231,4 @@ For Tableau, connect the six files in `data/tableau/` using their identifier rel
 ## Author
 
 **Ines Hadjem** · [GitHub](https://github.com/ines-hdjm) · [Tableau dashboard](https://public.tableau.com/app/profile/ines.hadjem/viz/K-BeautySkincareBrandPromisesReviewerExperiences/Dashboard1)
+
