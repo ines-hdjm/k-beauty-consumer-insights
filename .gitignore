@@ -4,3 +4,12 @@ __pycache__/
 .venv/
 .env
 .env.*
+data/**/*.csv
+data/**/*.json
+data/**/*.html
+data/**/*.png
+data/**/*.jpg
+data/**/*.xlsx
+data/**/*.parquet
+data/**/*.zip
+!data/**/README.md

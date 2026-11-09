@@ -1,0 +1,32 @@
+[
+  {
+    "notebook": "01_test_product_collection.ipynb",
+    "original_sha256": "d2d311686f938cdf8a64fa26e05c6d2f83e7f45c4293932186088c50d729ce15",
+    "changes": "Outputs removed; public metadata reset; project-root configuration added; home paths replaced. Original analytical logic retained."
+  },
+  {
+    "notebook": "02_collect_all_products.ipynb",
+    "original_sha256": "8717c4d90e9d9b60b96c3ef97e2c9b4bb1918585ad4f3adbb5447c3810cff1ad",
+    "changes": "Outputs removed; public metadata reset; project-root configuration added; home paths replaced. Original analytical logic retained."
+  },
+  {
+    "notebook": "03_clean_and_validate.ipynb",
+    "original_sha256": "8256ebae18ee93c22dcc36b0c1df4d8c57a5b28dd8c650af6f71877e22cd8f20",
+    "changes": "Outputs removed; public metadata reset; project-root configuration added; home paths replaced. Original analytical logic retained."
+  },
+  {
+    "notebook": "04_exploratory_analysis.ipynb",
+    "original_sha256": "64ff3d769407f3d0809d7f7eecf4ff6533dd0ab55c8d5d724ecbc2e4eb36c2a3",
+    "changes": "Outputs removed; public metadata reset; project-root configuration added; home paths replaced. Original analytical logic retained."
+  },
+  {
+    "notebook": "05_theme_analysis_tableau.ipynb",
+    "original_sha256": "1e1c462d745c3d2429381c6504b58c3348c70d67b7d333217ae8592bac7a975d",
+    "changes": "Outputs removed; public metadata reset; project-root configuration added; home paths replaced. Original analytical logic retained."
+  },
+  {
+    "notebook": "06_ingredients_and_claims_revised.ipynb",
+    "original_sha256": "5c8f25b40fb1cc1b5091a5bb56fe9422b752f7f387eac8f298ce74a068f3512f",
+    "changes": "Added narrative, configurable root/FK input, offline captured cleanser default, original processing timestamps, validations and manifest. Removed failed duplicate live Dynasty request and saved outputs. Coding decisions and final CSV schemas retained."
+  }
+]
